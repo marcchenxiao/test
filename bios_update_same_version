@@ -1,4 +1,9 @@
 #!/bin/bash
+#auto flash bios in same version
+#auth by marc
+#2019/11/27
+#system must hava ipmitool,bios_file in this folder
+####################################################
 bios_version=
 bios_file=
 get_currect_version()
