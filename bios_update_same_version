@@ -1,0 +1,7 @@
+#!/bin/bash
+bios_version=
+bios_file=
+get_currect_version()
+{}
+flash_bios()
+{}
